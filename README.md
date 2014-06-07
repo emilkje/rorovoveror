@@ -1,5 +1,5 @@
 #Rorovoveror
-[http://no.wikipedia.org/wiki/R%C3%B8verspr%C3%A5ket](Søverspråk) generator.
+[Røverspråk](http://no.wikipedia.org/wiki/R%C3%B8verspr%C3%A5ket) generator.
 
 ##Usage
 
