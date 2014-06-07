@@ -1,6 +1,10 @@
 #Rorovoveror
 [Røverspråk](http://no.wikipedia.org/wiki/R%C3%B8verspr%C3%A5ket) generator.
 
+##Install
+
+With [Composer](https://getcomposer.org/) require `"emil/rorovoveror": "dev-master"`
+
 ##Usage
 
 	<?php
