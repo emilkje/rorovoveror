@@ -1,0 +1,4 @@
+formatter.name: pretty
+suites:
+  rorovoveror_suite:
+    namespace: Emil\Rorovoveror
